@@ -12,5 +12,5 @@
 
                             Built With: JAVA AND JAVA SWING
 
-                            Authors: GAJANAN NAIK,VINAYAK SHEDGERI 
+                            Authors: GAJANAN NAIK
 
